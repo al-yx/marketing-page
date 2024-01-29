@@ -1,0 +1,38 @@
+.header-choice {
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.choice-main {
+  height: 600px;
+  background-color: #073f3b;
+}
+.font-choice {
+  color: #073f3b;
+  font-size: 30px;
+  line-height: 4rem;
+  font-weight: bold;
+  font-family: "DM Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.choice-left {
+  background-color: white;
+  border-radius: 12px;
+  width: 550px;
+}
+.heading {
+  font-size: 30px;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  color: white;
+  font-family: "DM Sans", sans-serif;
+}
+.choice-button {
+  display: flex;
+  justify-content: space-evenly;
+}

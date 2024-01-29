@@ -1,0 +1,33 @@
+.button {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-radius: 12px;
+  padding: 0.8rem 1.2rem;
+  /* max-width: 500px; */
+}
+
+.button-transparent {
+  border-color: white;
+  background-color: rgba(0, 0, 0, 0.001);
+}
+
+.headerButton {
+  background: rgba(0, 0, 0, 0.001);
+  border-color: #f76363;
+}
+
+.button-pink {
+  background: #f76363;
+  border-color: #f76363;
+}
+
+.font-button {
+  color: white;
+  text-decoration: none;
+  font-family: "DM sans", sans-serif;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}

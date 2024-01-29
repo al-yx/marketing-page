@@ -1,0 +1,23 @@
+.header {
+  width: 98%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.header-left > img {
+  width: 120px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+}
+.header-right {
+  display: flex;
+  gap: 1rem;
+}
+.header-font {
+  color: #f76363;
+  text-decoration: none;
+  font-family: "DM sans", sans-serif;
+  justify-content: center;
+  align-items: center;
+}
